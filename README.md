@@ -16,13 +16,10 @@ A simple web app that visualizes flight trends between selected cities using fre
 pip install -r requirements.txt
 ```
 
-3. Replace `YOUR_API_KEY` in `app.py` with your Aviationstack API key.
-4. Run the app:
+3. Run the app:
 
 ```bash
 streamlit run app.py
 ```
 
-## Live Demo
-
-(Optional if deployed)
+4. Enter your own Aviationstack API key to run the app.(To get your own Aviationstack API key visit https://aviationstack.com/)
